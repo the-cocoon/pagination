@@ -1,4 +1,5 @@
 require "pagination/version"
+require "kaminari"
 
 module Pagination
   class Engine < Rails::Engine; end
