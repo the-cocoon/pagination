@@ -1,0 +1,5 @@
+ru:
+  views:
+    pagination:
+      first: Первая
+      last: Последняя
