@@ -3,3 +3,4 @@ ru:
     pagination:
       first: Первая
       last: Последняя
+      truncate: '...'
